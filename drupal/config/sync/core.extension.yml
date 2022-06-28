@@ -40,6 +40,7 @@ module:
   diff: 0
   documentation_generator: 0
   druxt: 0
+  druxt_node_preview: 0
   dynamic_entity_reference: 0
   dynamic_page_cache: 0
   editor: 0

@@ -1,0 +1,56 @@
+{
+    "uuid": [
+        {
+            "value": "a8fdc6d1-bbb9-4587-b30f-b0472c6e5d4c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "text_formatted",
+            "target_type": "paragraphs_type",
+            "target_uuid": "71da2b1b-bfa1-4dae-8638-7f791512512d"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-06-28T04:21:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": {
+                "layout_paragraphs": {
+                    "parent_uuid": "594d9640-08a5-4abf-a3c7-280aa7b344a9",
+                    "region": "content"
+                }
+            }
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_text_formatted": [
+        {
+            "value": "<p>Text paragraph<\/p>\r\n\r\n<p>Nulla quis lorem ut libero malesuada feugiat. Proin eget tortor risus. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.<\/p>\r\n\r\n<p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Nulla porttitor accumsan tincidunt. Proin eget tortor risus. Vivamus suscipit tortor eget felis porttitor volutpat.<\/p>\r\n\r\n<p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vivamus suscipit tortor eget felis porttitor volutpat. Proin eget tortor risus. Sed porttitor lectus nibh.<\/p>\r\n",
+            "format": "formatted"
+        }
+    ]
+}

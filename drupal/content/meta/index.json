@@ -1,4 +1,14 @@
 {
     "user.7405b79f-638c-46db-97e8-3cb339655225": [],
-    "user.fb85df17-bbd5-4b75-890e-e010d6410ac0": []
+    "user.fb85df17-bbd5-4b75-890e-e010d6410ac0": [],
+    "paragraph.594d9640-08a5-4abf-a3c7-280aa7b344a9": [],
+    "paragraph.a8fdc6d1-bbb9-4587-b30f-b0472c6e5d4c": [],
+    "node.aa52ed56-df2e-4346-b567-ed23b6df0477": [
+        "user.fb85df17-bbd5-4b75-890e-e010d6410ac0",
+        "paragraph.594d9640-08a5-4abf-a3c7-280aa7b344a9",
+        "paragraph.a8fdc6d1-bbb9-4587-b30f-b0472c6e5d4c"
+    ],
+    "path_alias.3c3f88d1-2316-41fa-b725-1fa3ff2ee5b5": [
+        "node.aa52ed56-df2e-4346-b567-ed23b6df0477"
+    ]
 }
